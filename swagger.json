@@ -3,7 +3,7 @@
     "urls": [
         {
             "url": "https://raw.githubusercontent.com/khanhchauminh/swagger-payload/main/swagger.yaml",
-            "name": "The website is vulnerable to DOM XSS"
+            "name": "The website is vulnerable to <a href=x>DOM</a> XSS"
         }
     ]
 }
